@@ -1,0 +1,48 @@
+# 编译中间文件
+*.o
+*.obj
+*.hex
+*.sdf
+*.dep
+*.pbd
+*.out
+*.map
+*.lst
+*.bak
+
+# IAR / Keil 工程生成目录
+Debug/
+Release/
+settings/
+Exe/
+Obj/
+List/
+*.eww
+*.ewd
+*.ewp
+*.uvoptx
+*.uvguix
+
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.ncb
+*.sln
+
+# 压缩包（不需要上传）
+*.rar
+*.zip
+*.7z
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 日志
+*.log
+UpgradeLog*.htm
+UpgradeLog*.xml
